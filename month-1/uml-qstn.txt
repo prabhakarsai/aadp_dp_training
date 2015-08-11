@@ -1,0 +1,38 @@
+UML helps the architect to
+
+A - Capture interaction between components
+B - Explain the use case to the development team
+C - Visualize the deployment architecture of the system
+D - Analyze the static structure of the systems in terms of logical classess
+
+A, B
+A, C
+A, B, C, D
+
+--------------------------------------------------------------------------------------------------
+
+The type of uml diagram which helps to model flow of control between objects
+
+Component
+State chart
+Activity
+Sequence    Correct
+
+-------------------------------------------------------------------------------------------------
+
+image
+
+------------------------------
+
+Internal behaviour of scientific calculator
+
+sequence diagram
+component diagram
+state diagram               correct
+activity diagram
+
+
+------------------------------------------------------------------------------
+
+
+http://testing.anvetsu.com/tao/getFile.php/5577eed5bb081/1437067235/94322d7d819086903e49fe3589410b73/a/d/b/cb03ceb199257526f50e41a56fe80/*/en-US/uml_seq.png
